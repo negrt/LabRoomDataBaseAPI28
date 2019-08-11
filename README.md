@@ -4,4 +4,4 @@ An Android OS application that keeps data persistent by extending from and using
 # What I learned
 * Use a room database to keep data persistent
 * Use Data Access Object to query room database
-* Mark a class with @Entity, @Primarykey, etc.
+* Mark a class (create a SQL table) with @Entity, @Primarykey, etc.
