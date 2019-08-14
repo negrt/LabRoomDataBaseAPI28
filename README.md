@@ -1,5 +1,5 @@
 # PersonDB
-An Android OS application that keeps data persistent by extending from and using RoomDatabase class. Uses Data Access Object to retrieve data from database.
+An Android OS application that keeps data persistent by extending from and using RoomDatabase class. Uses Data Access Object to insert and retrieve data from database.
 
 # What I learned
 * Use a room database to keep data persistent
