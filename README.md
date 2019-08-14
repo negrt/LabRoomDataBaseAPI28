@@ -1,5 +1,5 @@
 # PersonDB
-An Android OS application that keeps data persistent by extending from and using RoomDatabase class. Uses Data Access Object to query, select, and insert person data.
+An Android OS application that keeps data persistent by extending from and using RoomDatabase class. Uses Data Access Object to retrieve data from database.
 
 # What I learned
 * Use a room database to keep data persistent
@@ -7,7 +7,12 @@ An Android OS application that keeps data persistent by extending from and using
 * Mark a class (create a SQL table) with @Entity, @Primarykey, etc.
 
 # Description and Image
-This application has the ability to add person data to a database. Keeps data persistent. Data is binded to a recyclerview.
+This application has the ability to add person data to a database. Keeps data persistent using room database and data access object. Data is binded to a recyclerview.
 
-## Image
+## Images
+
+#### Adding a Person to the Database
 ![Image of PersonDB Adding a Person](https://github.com/negrt/cv/blob/master/images/PersonDBEnterName.png?raw=true)
+
+#### Successfully Added Person : Recyclerview Updated
+![Image of PersonDB Sucess](https://github.com/negrt/cv/blob/master/images/PersonDBSuccess.png?raw=true)
