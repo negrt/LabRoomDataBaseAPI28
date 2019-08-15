@@ -7,7 +7,7 @@ An Android OS application that keeps data persistent by extending from and using
 * Mark a class (create a SQL table) with @Entity, @Primarykey, etc.
 
 # Description and Image
-This application has the ability to add person data to a database. Keeps data persistent using room database and data access object. Data is binded to a recyclerview.
+This application has the ability to add person data to a database. Keeps data persistent using room database and data access object. Data is binded to a recyclerview. Primary key Int Id auto increments.
 
 ## Images
 
